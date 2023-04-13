@@ -14,7 +14,4 @@ tags:
   - IBM founder
 ---
 
-{% include bio-Charles_Ranlett_Flint.md %}
-
-
 
